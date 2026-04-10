@@ -56,14 +56,15 @@ cd thinkpalm-agentai-archguardai-teambeta
    streamlit run app.py
 
 📸 Screenshots of Working Prototype
-    A. User Configuration
-    The sidebar allows the user to select the most capable reasoning model available on the OpenRouter free tier.
-    
-    B. The Agentic Reasoning Loop
-    The agent first lists files, then identifies "hotspots" like pubspec.yaml or main.dart, and reads them iteratively.
-    
-    C. Generated Architectural Report
-    A Markdown report identifying the project's structure (e.g., "Feature-first Flutter Architecture") and recommending improvements.
+!   [Main Dashboard](screenshots/1.png)
+!   [Main Dashboard](screenshots/2.png)
+!   [Main Dashboard](screenshots/3.png)
+!   [Main Dashboard](screenshots/4.png)
+!   [Main Dashboard](screenshots/5.png)
+!   [Main Dashboard](screenshots/6.png)
+!   [Main Dashboard](screenshots/7.png)
+!   [Main Dashboard](screenshots/8.png)
+!   [Main Dashboard](screenshots/9.png)
 
 🎥 5-min Demo Link
 Demo Highlights:
