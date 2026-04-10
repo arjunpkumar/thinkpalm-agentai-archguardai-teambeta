@@ -56,6 +56,9 @@ cd thinkpalm-agentai-archguardai-teambeta
    streamlit run app.py
 
 📸 Screenshots of Working Prototype
+    <p align="center">
+      <img src="screenshots/1.png" width="800" alt="ArchGuardAI">
+    </p>
 !   [Main Dashboard](screenshots/1.png)
 !   [Main Dashboard](screenshots/2.png)
 !   [Main Dashboard](screenshots/3.png)
